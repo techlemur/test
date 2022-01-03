@@ -2,7 +2,7 @@
 
 Changes can be seen by clicking [here](https://github.com/Techlemur-LLC/test/commits/main)
 
-## Linkss:
+## Links:
 
 - [Project wide changes](https://github.com/Techlemur-LLC/test/commits/main)
 - []
